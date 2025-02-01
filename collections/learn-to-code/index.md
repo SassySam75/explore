@@ -27,7 +27,7 @@ items:
  - karlhorky/learn-to-program
  - therebelrobot/awesome-workshopper
  - jlevy/the-art-of-command-line
- - papers-we-love/papers-we-love
+ - papers-we-love/papers-we-love  
  - awesome-selfhosted/awesome-selfhosted
  - ripienaar/free-for-dev
  - gothinkster/realworld
